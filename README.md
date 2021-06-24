@@ -2,6 +2,7 @@
 - 👩🏽‍💻 I'm currently studying in Monash University majoring in Data Science
 - 🌱 I’m currently learning more about Spark Pipelines
 <br/>
+
 - You can reach me via
 - Email: nabilahqanuwar@gmail.com
 - Twitter: @AiRikux_
