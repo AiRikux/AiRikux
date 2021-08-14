@@ -5,7 +5,7 @@
 
 - You can reach me via
 - Email: nabilahqanuwar@gmail.com
-- Twitter: @AiRikux_
+- Twitter: @AiRikux
 
 <!---
 AiRikux/AiRikux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
