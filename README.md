@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @AiRikux
-- 👩🏽‍💻 I'm currently studying in Monash University majoring in Data Science
-- 🌱 I’m currently learning more about Spark Pipelines
-<br/>
-
-- You can reach me via
-- Email: nabilahqanuwar@gmail.com
-- Twitter: @AiRikux
+Most of these are assignments I had to do during my time in university
 
 <!---
 AiRikux/AiRikux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
