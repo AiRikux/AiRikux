@@ -1,4 +1,4 @@
-Most of these are assignments I had to do during my time in university
+Here consist of few sideline projects as well as my files for uni. Weekly quizes or tutorials will be updated within a subject-specified directory. However assignments will be on a separate directory by itself.
 
 <!---
 AiRikux/AiRikux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
